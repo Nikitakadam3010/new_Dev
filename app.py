@@ -110,4 +110,3 @@
  "nbformat": 4,
  "nbformat_minor": 5
 }
-web: streamlit run app.py
